@@ -1,3 +1,7 @@
+'''Lien github pour le code:
+https://github.com/JLKayser/Exam_R309'''
+
+
 from socket import AF_INET, SOCK_STREAM
 import socket
 from PyQt5.QtWidgets import QApplication, QWidget, QGridLayout, QLabel, QLineEdit, QPushButton, QMainWindow, QComboBox, QDialog, QMessageBox, QTabWidget, QVBoxLayout, QPlainTextEdit, QTextEdit, QTableWidget,QTableWidgetItem
